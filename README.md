@@ -4,7 +4,7 @@
 BEAR MK3S is a 3D printer project maintained by 3DXFAB Research & Development and gregsaun.
 Originates in RepRap project and Prusa Research.
 
-This repository contains STEP files and STLs of the printed parts.
+This repository contains CAD files and STLs of the printed parts.
 
 **Links**
 
