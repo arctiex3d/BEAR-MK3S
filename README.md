@@ -1,8 +1,8 @@
-# 3DXFAB BEAR MK3S
+# BEAR MK3S
 
-Welcome to the 3DXFAB github project page!
+Welcome to the ARCTIEX github project page!
 
-3DXFAB BEAR MK3S is an open source 3D-Printer project maintained by 3DXFAB Research & Development.
+BEAR MK3S is an open source 3D-Printer project maintained by ARCTIEX Research.
 
 This repository contains CAD files and STLs of the printed parts.
 
@@ -28,10 +28,10 @@ Extruder
 
 ## Links
 
-* 3DXFAB Research & Development website : http://3dxfab.com
-* Product page: http://3dxfab.com/products
-* Build manual: http://3dxfab.com/support
-* Firmware : http://3dxfab.com/support
+* ARCTIEX Research website : http://arctiex3d.com
+* Product page: http://arctiex3d.com/products
+* Build manual: http://arctiex3d.com/support
+* Firmware : http://arctiex3d.com/support
 * MK52 heatbed : https://github.com/prusa3d/Heatbed_MK52_magnetic
 * MK3 Power panic : https://github.com/prusa3d/MK3_Power_Panic
 * MK3S IR senzor : https://github.com/prusa3d/MKxS-IR-sensor
